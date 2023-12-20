@@ -1,6 +1,6 @@
 # Short demo on variables and assignments
 
-# Assign some valuse to variables
+# Assign some values to variables
 
 # Equal to operator
 FirstName = "Jackie"
